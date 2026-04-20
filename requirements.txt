@@ -1,0 +1,19 @@
+# Core
+flask>=3.0,<4.0
+flask-cors>=4.0,<5.0
+opencv-python-headless>=4.8
+numpy>=1.24
+requests>=2.31
+pillow>=10.0
+pyserial>=3.5
+
+# LeRobot (install from source — see README)
+# git+https://github.com/huggingface/lerobot.git
+
+# Optional: push datasets to HuggingFace Hub
+huggingface-hub>=0.21
+
+# Optional: FAISS server dependencies (RunPod / server side only)
+# faiss-gpu>=1.7
+# fastapi>=0.110
+# uvicorn>=0.29
