@@ -1,20 +1,16 @@
 <div align="center">
 
-<!-- Dashboard screenshot — replace with your own once deployed -->
-<img src="docs/assets/dashboard-preview.png" alt="Laundrobot Dashboard" width="100%">
+<!-- Cinematic title using Google Fonts rendered via SVG — visible on GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=52&duration=0&pause=0&color=E2E2F0&center=true&vCenter=true&repeat=false&width=900&height=90&lines=LAUNDROBOT" alt="LAUNDROBOT" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=16&duration=0&pause=0&color=8888AA&center=true&vCenter=true&repeat=false&width=700&height=32&lines=Dual-arm+robot+teleoperation%2C+animation+%26+data-collection+studio" alt="subtitle" />
 
 <br/>
 
-```
-██╗      █████╗ ██╗   ██╗███╗   ██╗██████╗ ██████╗  ██████╗ ██████╗  ██████╗ ████████╗
-██║     ██╔══██╗██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝
-██║     ███████║██║   ██║██╔██╗ ██║██║  ██║██████╔╝██║   ██║██████╔╝██║   ██║   ██║   
-██║     ██╔══██║██║   ██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   
-███████╗██║  ██║╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝    ╚═╝   
-```
+<!-- Dashboard screenshot — replace with your own once deployed -->
+<img src="docs/assets/dashboard-preview.png" alt="Laundrobot Dashboard" width="100%">
 
-**A dual-arm robot teleoperation, animation, and data-collection studio built on [LeRobot](https://github.com/huggingface/lerobot).**
+<br/><br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-4488ff?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![LeRobot](https://img.shields.io/badge/LeRobot-SO101%20%2F%20SO100-00ffaa?style=flat-square)](https://github.com/huggingface/lerobot)
